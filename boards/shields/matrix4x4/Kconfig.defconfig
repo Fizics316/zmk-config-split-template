@@ -1,8 +1,0 @@
-# config/boards/shields/matrix4x4/Kconfig.defconfig
-
-if SHIELD_MATRIX4X4
-
-config ZMK_KEYBOARD_NAME
-    default "Matrix4x4"
-
-endif

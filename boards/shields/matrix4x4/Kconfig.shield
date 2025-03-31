@@ -1,4 +1,0 @@
-# config/boards/shields/matrix4x4/Kconfig.shield
-
-config SHIELD_MATRIX4X4
-    def_bool $(shields_list_contains,matrix4x4)
